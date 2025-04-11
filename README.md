@@ -49,10 +49,10 @@ The goal is to identify meaningful customer groups to enable targeted marketing 
 - Targeted promotions can be personalized based on cluster characteristics.
 
 **🚀 How to Run**
-_1. Clone this repository
+1. Clone this repository
 2. Open the notebook in Google Colab or Jupyter
 3. Run all cells step-by-step
-_
+
 
 
 - **Suk**
